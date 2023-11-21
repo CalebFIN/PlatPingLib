@@ -1,4 +1,5 @@
 # PlatPingLib
+https://pypi.org/project/platPingLib/
 
 A simple Python library to perform ping operations across platforms. `PlatPingLib` provides an easy-to-use function `ping_ip` that allows you to check the reachability of a given IP address in your network.
 
